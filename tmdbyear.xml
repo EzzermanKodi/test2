@@ -6,7 +6,7 @@
 
   <dir>
     <title>2016 Movies</title>
-    <tmdb>year/movies/2016</tmdb>
+    <link>https://raw.githubusercontent.com/EzzermanKodi/test2/master/tmdbyear.xml</link>
   </dir>
 
   <dir>
